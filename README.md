@@ -14,8 +14,10 @@
 6. Que vous évoquent ces noms : docker, Gutenberg (js, php), RootsSage, Pipelines, Déploiements ?
 7. Utilisez-vous WP-Cli
 8. quelles actions pour la sécurité ? Cache ?
-9. D'habitude, vous utilisez des plugins ou un développement ?
-10. Utilisez-vous des Package management - composer
+9. Avez-vous pratiqué le multi-sites ? 
+10. D'habitude, vous utilisez des plugins ou un développement ?
+11. Utilisez-vous des Package management - composer
+12. Etes-vous à l'aise avec la configuration et utilisation des outils de devops tels qu'Azure ?
     
 ## Cas pratique
   1. Récupérer un dépôt Git : https://github.com/florent-raja/wordpress-interview.git
@@ -31,3 +33,4 @@
   11. Créer une page ajax pour filtrer ces nouveaux CPT
   12. Créer un block Gutenberg : ACF ou js
   13. Utilisation de Wordpress REST Api : appel et affichage des 5 derniers articles du site dans une page par appel ajax
+  14. Ajouter le multilingue au site
