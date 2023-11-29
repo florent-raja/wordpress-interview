@@ -28,9 +28,9 @@
   6. Utilisation de webpack pour sass et js (https://developer.wordpress.org/block-editor/how-to-guides/javascript/js-build-setup/)
   7. Création custom post type
   8. Création custom taxonomy
-  9. Page archive + page détail d'un contenu de ce CPT
-  10. Gérer les plugins par composer
-  11. Créer une page ajax pour filtrer ces nouveaux CPT
-  12. Créer un block Gutenberg : ACF ou js
-  13. Utilisation de Wordpress REST Api : appel et affichage des 5 derniers articles du site dans une page par appel ajax
+  9. Création d'un modèle de page puis l'affecter à un contenu de type Page
+  10. Utilisation ce modèle pour présenter les contenus CPT créés précedemment
+  11. Créer une zone ajax pour filtrer ces nouveaux CPT
+  12. Gérer les plugins par composer
+  13. Créer un block Gutenberg : ACF ou js
   14. Ajouter le multilingue au site
